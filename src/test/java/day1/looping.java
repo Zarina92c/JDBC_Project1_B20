@@ -3,7 +3,7 @@ import java.sql.*;
 public class looping {
 
     public static void main(String[] args) throws SQLException {
-        String connectionStr = "jdbc:oracle:thin:@52.201.187.226:1521:XE";
+        String connectionStr = "jdbc:oracle:thin:@52.91.172.117:1521:XE";
         String username = "hr" ;
         String password = "hr" ;
 
